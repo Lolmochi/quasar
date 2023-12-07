@@ -38,10 +38,3 @@
   </div>
 </template>
 
-<script>
-import { defineComponent } from 'vue'
-git remote -v
-export default defineComponent({
-  name: 'IndexPage'
-})
-</script>
