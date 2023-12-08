@@ -12,7 +12,7 @@
         label="你的名字 *"
         hint="名和姓"
         lazy-rules
-        :rules="[ val => val && val.length > 0 || '請輸入一些內容']"
+        :rules="[ val => val && val.length > 0 || '請輸入 一些內容']"
       />
       <q-input
         filled
